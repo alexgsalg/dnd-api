@@ -7,10 +7,10 @@ const dnd_base = 'https://www.dnd5eapi.co/api'
 
 app.use(helmet());
 app.use(compression()); //Compress all routes
-
-if (process.env.NODE_ENV === 'production') {
-    apiOptions.server = 'https://dnd-vue-api.herokuapp.com/';
-  }
+let port = process.env.PORT || 3333;
+// if (process.env.PORT === 'production') {
+//     apiOptions.server = 'https://dnd-vue-api.herokuapp.com/';
+//   }
   
   
   // Middlewares
@@ -173,4 +173,4 @@ app.get('/rules', (req,res) => {
 });
 
 // Index route
-app.listen(3333);
+app.listen(port);
