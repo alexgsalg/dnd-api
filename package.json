@@ -4,7 +4,7 @@
   "description": "A version of the public api from Dungeons and Dragons to use in D&D Vue",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon index.js"
   },
   "author": "Alex Salgado",
   "license": "ISC",
