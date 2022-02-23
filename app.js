@@ -1,10 +1,16 @@
+const helmet = require('helmet');
 const express = require('express');
-const app = express();
 const axios = require('axios');
+const compression = require('compression');
+const app = express();
 const dnd_base = 'https://www.dnd5eapi.co/api'
-// if (process.env.NODE_ENV === 'production') {
-  //   apiOptions.server = 'https://pure-temple-67771.herokuapp.com';
-  // }
+
+app.use(helmet());
+app.use(compression()); //Compress all routes
+
+if (process.env.NODE_ENV === 'production') {
+    apiOptions.server = 'https://dnd-vue-api.herokuapp.com/';
+  }
   
   
   // Middlewares
@@ -129,8 +135,9 @@ const dnd_base = 'https://www.dnd5eapi.co/api'
   });
 
 // Routes
-app.get('/', async (req,res) => {
-  await res.send('hellooo theree!')
+app.route('/')
+  .get(function (req, res) {
+    res.sendFile(process.cwd() + '/index.html');
 });
 
 app.get('/spells', (req,res) => {
