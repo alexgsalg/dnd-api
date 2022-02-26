@@ -1,12 +1,26 @@
 const helmet = require('helmet');
 const express = require('express');
 const axios = require('axios');
-const compression = require('compression');
+const bodyParser = require('body-parser');
+// const compression = require('compression');
 const app = express();
-const dnd_base = 'https://www.dnd5eapi.co/api'
+const dnd_base = 'https://www.dnd5eapi.co/api';
 
 app.use(helmet());
-app.use(compression()); //Compress all routes
+// app.use(compression()); //Compress all routes
+app.use(bodyParser.urlencoded({extended: false}));
+app.use(bodyParser.json());
+
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', '*');
+  if (req.method === 'OPTIONS') {
+    res.header('Access-Control-Allow-Methods', 'GET');
+    // res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH');
+    return res.status(200),json();
+  }
+  next();
+})
 let port = process.env.PORT || 3333;
 // if (process.env.PORT === 'production') {
 //     apiOptions.server = 'https://dnd-vue-api.herokuapp.com/';
