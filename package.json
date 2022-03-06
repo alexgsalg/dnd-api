@@ -2,9 +2,9 @@
   "name": "dnd-vue-api",
   "version": "1.0.0",
   "description": "A version of the public api from Dungeons and Dragons to use in D&D Vue",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon index.js"
   },
   "author": "Alex Salgado",
   "license": "ISC",
