@@ -16,15 +16,12 @@ app.use((req, res, next) => {
   res.header('Access-Control-Allow-Headers', '*');
   if (req.method === 'OPTIONS') {
     res.header('Access-Control-Allow-Methods', 'GET');
-    // res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH');
     return res.status(200),json();
   }
   next();
 })
 let port = process.env.PORT || 3333;
-// if (process.env.PORT === 'production') {
-//     apiOptions.server = 'https://dnd-vue-api.herokuapp.com/';
-//   }
   
   
   // Middlewares
@@ -64,7 +61,10 @@ let port = process.env.PORT || 3333;
     let classesList = [];
     await resp.results.map( async (item)  => {
       await axios(`${dnd_base}/classes/${item.index}`)
-      .then((data) => classesList.push(data.data));
+      .then((data) => {
+        if (!data.data.spells) data.data.spells = `Class don't cast spell`;
+        classesList.push(data.data)
+      });
     });
     resp.results = classesList;
     return classesJson = resp
@@ -72,6 +72,14 @@ let port = process.env.PORT || 3333;
   .catch(err => {
     console.error(err);
   });
+
+  function classIndex(index) {
+    return axios(`${dnd_base}/classes/${index}`)
+            .then(async (res) => {
+              if (!res.data.spells) res.data.spells = `Class don't cast spell`;
+              return res.data
+            });
+  }
 
   let racesJson;
   axios(`${dnd_base}/races`).then(response => response.data)
@@ -164,6 +172,21 @@ app.get('/monsters', (req,res) => {
 
 app.get('/classes', (req,res) => {
   res.json(classesJson);
+});
+
+app.get('/classes/:index', async (req,res) => {
+  const { index } = req.params;
+  const classSpells = await classIndex(index);
+  res.json(classSpells);
+});
+
+app.get('/classes/:index/spells', async (req,res) => {
+  const { index } = req.params;
+  const classSpells = await 
+      axios(`${dnd_base}/classes/${index}/spells`)
+        .then(response => response.data
+      );
+  res.json(classSpells);
 });
 
 app.get('/alignments', (req,res) => {
