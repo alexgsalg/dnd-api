@@ -44,6 +44,7 @@ exports.getSpellsByClass = (request, response) => {
     .json({
       status: 'success',
       class: name, 
-      spells: classSpells
+      count: classSpells.length,
+      results: classSpells
     })
 }

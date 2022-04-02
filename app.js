@@ -1,6 +1,4 @@
 const helmet = require('helmet');
-const fs = require('fs');
-const bodyParser = require('body-parser');
 const express = require('express');
 const app = express();
 
@@ -18,10 +16,6 @@ const equipmentsRouter = require('./routes/equipmentsRoute');
 const conditionsRouter = require('./routes/conditionsRoute');
 const rulesRouter = require('./routes/rulesRoute');
 
-if (process.env.NODE_ENV === 'development') {
-  console.log(process.env.NODE_ENV)
-}
-
 // CORS
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
@@ -33,7 +27,6 @@ app.use((req, res, next) => {
   }
   next();
 })
-
 
 ////////////////// ROUTES //////////////////
 app.route('/').get( (req, res) => {

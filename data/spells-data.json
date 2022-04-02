@@ -21,8 +21,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -47,8 +46,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/beacon-of-hope"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb37a",
@@ -76,8 +74,7 @@
       "level": 3,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -107,8 +104,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/clairvoyance"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb381",
@@ -141,8 +137,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -153,8 +148,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/compulsion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb36c",
@@ -180,8 +174,7 @@
       "level": 1,
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -206,8 +199,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/bless"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb388",
@@ -238,8 +230,7 @@
       "level": 4,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -255,8 +246,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/conjure-minor-elementals"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb372",
@@ -302,8 +292,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -323,8 +312,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/call-lightning"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb35a",
@@ -354,8 +342,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -366,8 +353,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/antilife-shell"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb36d",
@@ -416,8 +402,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -447,8 +432,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/blight"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb394",
@@ -487,8 +471,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -504,8 +487,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/creation"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb386",
@@ -538,8 +520,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -559,8 +540,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/conjure-elemental"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb371",
@@ -600,8 +580,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -612,8 +591,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/branding-smite"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb398",
@@ -639,8 +617,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -670,8 +647,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/darkvision"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb39c",
@@ -695,8 +671,7 @@
       "level": 8,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -712,8 +687,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/demiplane"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb35e",
@@ -745,8 +719,7 @@
       "level": 5,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -757,8 +730,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/arcane-hand"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb37f",
@@ -789,8 +761,7 @@
       "level": 5,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -810,8 +781,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/commune-with-nature"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb389",
@@ -844,8 +814,7 @@
       "level": 4,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -861,8 +830,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/conjure-woodland-beings"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb351",
@@ -906,8 +874,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -927,8 +894,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/acid-arrow"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb396",
@@ -955,8 +921,7 @@
       "level": 0,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -981,8 +946,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/dancing-lights"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb363",
@@ -1013,8 +977,7 @@
       "level": 9,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -1035,8 +998,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/astral-projection"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb36b",
@@ -1074,8 +1036,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -1100,8 +1061,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/bestow-curse"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb36f",
@@ -1126,8 +1086,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -1147,8 +1106,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/blink"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb36a",
@@ -1195,8 +1153,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -1207,8 +1164,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/blade-barrier"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb39a",
@@ -1261,8 +1217,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -1278,8 +1233,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/delayed-blast-fireball"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb375",
@@ -1324,8 +1278,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -1341,8 +1294,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/chain-lightning"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb366",
@@ -1378,8 +1330,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -1410,8 +1361,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/banishment"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb38e",
@@ -1467,8 +1417,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -1489,8 +1438,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/control-water"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb358",
@@ -1518,8 +1466,7 @@
       "level": 3,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -1539,8 +1486,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/animate-dead"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb390",
@@ -1564,8 +1510,7 @@
       "level": 3,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -1595,8 +1540,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/create-food-and-water"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb354",
@@ -1623,8 +1567,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -1644,8 +1587,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/alter-self"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb359",
@@ -1680,8 +1622,7 @@
       "level": 5,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -1702,8 +1643,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/animate-objects"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb35c",
@@ -1735,8 +1675,7 @@
       },
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -1752,8 +1691,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/arcane-eye"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb376",
@@ -1785,8 +1723,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -1821,8 +1758,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/charm-person"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb357",
@@ -1848,8 +1784,7 @@
       "level": 8,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -1860,8 +1795,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/animal-shapes"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb39b",
@@ -1891,8 +1825,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -1932,8 +1865,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/daylight"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb365",
@@ -1967,8 +1899,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -1988,8 +1919,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/bane"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb362",
@@ -2021,8 +1951,7 @@
       "level": 2,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -2037,8 +1966,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/augury"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb355",
@@ -2072,8 +2000,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -2099,8 +2026,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/animal-friendship"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb37c",
@@ -2131,8 +2057,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -2152,8 +2077,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/color-spray"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb352",
@@ -2189,8 +2113,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -2210,8 +2133,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/aid"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb38b",
@@ -2253,8 +2175,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -2270,8 +2191,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/contagion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb399",
@@ -2297,8 +2217,7 @@
       "level": 4,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -2318,8 +2237,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/death-ward"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb374",
@@ -2356,8 +2274,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -2377,8 +2294,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/calm-emotions"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb384",
@@ -2409,8 +2325,7 @@
       "level": 3,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -2430,8 +2345,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/conjure-animals"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb377",
@@ -2471,8 +2385,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -2497,8 +2410,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/chill-touch"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb369",
@@ -2549,8 +2461,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -2561,8 +2472,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/black-tentacles"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb35b",
@@ -2601,8 +2511,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -2618,8 +2527,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/antimagic-field"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb38f",
@@ -2642,8 +2550,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -2664,8 +2571,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/counterspell"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb35f",
@@ -2703,8 +2609,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -2720,8 +2625,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/arcane-sword"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb350",
@@ -2767,8 +2671,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -2788,8 +2691,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/acid-splash"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb383",
@@ -2835,8 +2737,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -2862,8 +2763,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/confusion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb395",
@@ -2898,8 +2798,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -2939,8 +2838,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/cure-wounds"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb356",
@@ -2967,8 +2865,7 @@
       "level": 2,
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -2993,8 +2890,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/animal-messenger"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a0",
@@ -3023,8 +2919,7 @@
       },
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -3069,8 +2964,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/detect-magic"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb37e",
@@ -3098,8 +2992,7 @@
       "level": 5,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -3114,8 +3007,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/commune"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb37d",
@@ -3152,8 +3044,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -3178,8 +3069,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/command"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb382",
@@ -3233,8 +3123,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -3254,8 +3143,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/cone-of-cold"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb38d",
@@ -3281,8 +3169,7 @@
       "level": 2,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -3302,8 +3189,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/continual-flame"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb391",
@@ -3356,8 +3242,7 @@
       "level": 8,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -3382,8 +3267,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/control-weather"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb380",
@@ -3410,8 +3294,7 @@
       "level": 1,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -3441,8 +3324,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/comprehend-languages"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb38a",
@@ -3475,8 +3357,7 @@
       },
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -3492,8 +3373,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/contact-other-plane"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb385",
@@ -3519,8 +3399,7 @@
       "level": 7,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -3531,8 +3410,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/conjure-celestial"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb387",
@@ -3559,8 +3437,7 @@
       "level": 6,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -3576,8 +3453,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/conjure-fey"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb370",
@@ -3600,8 +3476,7 @@
       "level": 2,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -3626,8 +3501,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/blur"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb367",
@@ -3653,8 +3527,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -3679,8 +3552,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/barkskin"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb361",
@@ -3709,8 +3581,7 @@
       "level": 2,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -3725,8 +3596,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/arcanists-magic-aura"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb364",
@@ -3753,8 +3623,7 @@
       "level": 5,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -3770,8 +3639,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/awaken"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb35d",
@@ -3806,8 +3674,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -3823,8 +3690,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/antipathy-sympathy"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb38c",
@@ -3852,8 +3718,7 @@
       "level": 6,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -3864,8 +3729,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/contingency"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb360",
@@ -3892,8 +3756,7 @@
       "level": 2,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -3908,8 +3771,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/arcane-lock"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb353",
@@ -3941,8 +3803,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -3962,8 +3823,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/alarm"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb37b",
@@ -4016,8 +3876,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -4037,8 +3896,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/cloudkill"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb36e",
@@ -4069,8 +3927,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -4105,8 +3962,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/blindness-deafness"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb392",
@@ -4138,8 +3994,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -4159,8 +4014,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/create-or-destroy-water"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb397",
@@ -4191,8 +4045,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -4222,8 +4075,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/darkness"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb378",
@@ -4274,8 +4126,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -4296,8 +4147,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/circle-of-death"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb373",
@@ -4352,8 +4202,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -4378,8 +4227,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/burning-hands"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb379",
@@ -4406,8 +4254,7 @@
       "level": 8,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -4418,8 +4265,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/clone"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb393",
@@ -4447,8 +4293,7 @@
       "level": 6,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -4469,8 +4314,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/create-undead"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a1",
@@ -4505,8 +4349,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -4532,8 +4375,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/dimension-door"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3be",
@@ -4581,8 +4423,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -4608,8 +4449,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/feeblemind"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e3",
@@ -4652,8 +4492,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -4668,8 +4507,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/guiding-bolt"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a4",
@@ -4695,8 +4533,7 @@
       "level": 1,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -4721,8 +4558,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/disguise-self"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b0",
@@ -4754,8 +4590,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -4785,8 +4620,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/enhance-ability"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e6",
@@ -4828,8 +4662,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -4840,8 +4673,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/harm"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d8",
@@ -4868,8 +4700,7 @@
       "level": 4,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -4880,8 +4711,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/giant-insect"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b5",
@@ -4905,8 +4735,7 @@
       "level": 1,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -4931,8 +4760,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/expeditious-retreat"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b1",
@@ -4969,8 +4797,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -4990,8 +4817,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/enlarge-reduce"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3cb",
@@ -5019,8 +4845,7 @@
       "level": 1,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -5035,8 +4860,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/floating-disk"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ad",
@@ -5085,8 +4909,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -5111,8 +4934,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/dream"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a5",
@@ -5140,8 +4962,7 @@
       "level": 4,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -5156,8 +4977,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/divination"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f0",
@@ -5187,8 +5007,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -5199,8 +5018,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/holy-aura"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb39d",
@@ -5229,8 +5047,7 @@
       },
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -5250,8 +5067,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/detect-evil-and-good"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3bf",
@@ -5279,8 +5095,7 @@
       "level": 2,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -5295,8 +5110,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/find-steed"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b2",
@@ -5334,8 +5148,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -5350,8 +5163,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/entangle"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb400",
@@ -5375,8 +5187,7 @@
       "level": 2,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -5421,8 +5232,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/lesser-restoration"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ef",
@@ -5456,8 +5266,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -5483,8 +5292,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/hold-monster"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c7",
@@ -5539,8 +5347,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -5565,8 +5372,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/fireball"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a9",
@@ -5600,8 +5406,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -5617,8 +5422,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/dominate-beast"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3af",
@@ -5656,8 +5460,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -5672,8 +5475,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/eldritch-blast"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e8",
@@ -5703,8 +5505,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -5720,8 +5521,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/heal"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a7",
@@ -5755,8 +5555,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -5771,8 +5570,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/divine-favor"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f4",
@@ -5826,8 +5624,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -5852,8 +5649,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/ice-storm"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb39e",
@@ -5884,8 +5680,7 @@
       },
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -5915,8 +5710,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/detect-poison-and-disease"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d5",
@@ -5943,8 +5737,7 @@
       "level": 2,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -5964,8 +5757,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/gentle-repose"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a6",
@@ -5989,8 +5781,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -6040,8 +5831,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/dispel-magic"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ac",
@@ -6069,8 +5859,7 @@
       "level": 0,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -6081,8 +5870,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/druidcraft"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d4",
@@ -6111,8 +5899,7 @@
       "level": 9,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -6133,8 +5920,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/gate"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3db",
@@ -6161,8 +5947,7 @@
       "level": 1,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -6178,8 +5963,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/goodberry"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b4",
@@ -6207,8 +5991,7 @@
       "level": 7,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -6239,8 +6022,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/etherealness"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b7",
@@ -6276,8 +6058,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -6303,8 +6084,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/eyebite"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ba",
@@ -6341,8 +6121,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -6362,8 +6141,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/false-life"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ae",
@@ -6399,8 +6177,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -6421,8 +6198,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/earthquake"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b6",
@@ -6448,8 +6224,7 @@
       "level": 4,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -6460,8 +6235,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/fabricate"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3bb",
@@ -6486,8 +6260,7 @@
       "level": 1,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -6512,8 +6285,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/feather-fall"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3fb",
@@ -6539,8 +6311,7 @@
       "level": 2,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -6575,8 +6346,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/invisibility"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c0",
@@ -6603,8 +6373,7 @@
       "level": 6,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -6620,8 +6389,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/find-the-path"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb39f",
@@ -6651,8 +6419,7 @@
       "level": 2,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -6677,8 +6444,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/detect-thoughts"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b3",
@@ -6710,8 +6476,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -6731,8 +6496,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/enthrall"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b9",
@@ -6771,8 +6535,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -6783,8 +6546,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/faithful-hound"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ff",
@@ -6813,8 +6575,7 @@
       "level": 6,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -6825,8 +6586,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/instant-summons"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c6",
@@ -6867,8 +6627,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -6883,8 +6642,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/flame-blade"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a3",
@@ -6922,8 +6680,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -6939,8 +6696,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/dispel-evil-and-good"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a8",
@@ -6977,8 +6733,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -6989,8 +6744,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/divine-word"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3fe",
@@ -7016,8 +6770,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -7042,8 +6795,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/knock"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d7",
@@ -7066,8 +6818,7 @@
       "level": 8,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -7083,8 +6834,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/glibness"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d0",
@@ -7111,8 +6861,7 @@
       "level": 9,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -7138,8 +6887,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/foresight"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3aa",
@@ -7175,8 +6923,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -7202,8 +6949,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/dominate-monster"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d9",
@@ -7234,8 +6980,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -7251,8 +6996,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/globe-of-invulnerability"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3dd",
@@ -7276,8 +7020,7 @@
       "level": 4,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -7302,8 +7045,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/greater-invisibility"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c3",
@@ -7346,8 +7088,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -7368,8 +7109,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/finger-of-death"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ed",
@@ -7393,8 +7133,7 @@
       "level": 1,
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -7414,8 +7153,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/heroism"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e2",
@@ -7456,8 +7194,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -7482,8 +7219,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/gust-of-wind"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3fd",
@@ -7509,8 +7245,7 @@
       "level": 1,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -7540,8 +7275,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/jump"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3b8",
@@ -7577,8 +7311,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -7593,8 +7326,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/faerie-fire"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f8",
@@ -7642,8 +7374,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -7659,8 +7390,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/incendiary-cloud"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3de",
@@ -7690,8 +7420,7 @@
       "level": 5,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -7712,8 +7441,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/greater-restoration"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c4",
@@ -7755,8 +7483,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -7771,8 +7498,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/fire-shield"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c5",
@@ -7819,8 +7545,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -7841,8 +7566,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/fire-storm"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e4",
@@ -7873,8 +7597,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -7904,8 +7627,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/hallucinatory-terrain"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e7",
@@ -7932,8 +7654,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -7958,8 +7679,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/haste"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3cd",
@@ -7992,8 +7712,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -8004,8 +7723,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/forbiddance"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f1",
@@ -8039,8 +7757,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -8085,8 +7802,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/hold-person"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ab",
@@ -8122,8 +7838,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -8144,8 +7859,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/dominate-person"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e5",
@@ -8195,8 +7909,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -8211,8 +7924,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/hallow"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3eb",
@@ -8254,8 +7966,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -8266,8 +7977,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/hellish-rebuke"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f7",
@@ -8316,8 +8026,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -8333,8 +8042,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/imprisonment"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ca",
@@ -8372,8 +8080,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -8389,8 +8096,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/flesh-to-stone"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ec",
@@ -8417,8 +8123,7 @@
       "level": 6,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -8434,8 +8139,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/heroes-feast"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3a2",
@@ -8486,8 +8190,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -8503,8 +8206,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/disintegrate"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e1",
@@ -8528,8 +8230,7 @@
       "level": 0,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -8549,8 +8250,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/guidance"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f6",
@@ -8578,8 +8278,7 @@
       "level": 1,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -8604,8 +8303,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/illusory-script"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f3",
@@ -8640,8 +8338,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -8671,8 +8368,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/hypnotic-pattern"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c8",
@@ -8724,8 +8420,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -8745,8 +8440,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/flame-strike"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb402",
@@ -8773,8 +8467,7 @@
       "level": 5,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -8795,8 +8488,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/legend-lore"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c2",
@@ -8835,8 +8527,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -8852,8 +8543,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/fire-bolt"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f5",
@@ -8880,8 +8570,7 @@
       "level": 1,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -8901,8 +8590,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/identify"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3dc",
@@ -8941,8 +8629,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -8957,8 +8644,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/grease"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3cf",
@@ -8986,8 +8672,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -9017,8 +8702,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/fog-cloud"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f9",
@@ -9061,8 +8745,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -9077,8 +8760,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/inflict-wounds"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3cc",
@@ -9104,8 +8786,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -9130,8 +8811,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/fly"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3fa",
@@ -9184,8 +8864,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -9210,8 +8889,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/insect-plague"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ee",
@@ -9246,8 +8924,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -9267,8 +8944,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/hideous-laughter"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e0",
@@ -9311,8 +8987,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -9328,8 +9003,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/guards-and-wards"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3f2",
@@ -9352,8 +9026,7 @@
       "level": 1,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -9369,8 +9042,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/hunters-mark"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3df",
@@ -9416,8 +9088,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -9433,8 +9104,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/guardian-of-faith"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3bc",
@@ -9474,8 +9144,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -9505,8 +9174,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/fear"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3fc",
@@ -9530,8 +9198,7 @@
       "level": 6,
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -9547,8 +9214,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/irresistible-dance"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d3",
@@ -9598,8 +9264,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -9610,8 +9275,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/freezing-sphere"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d6",
@@ -9644,8 +9308,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -9676,8 +9339,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/geas"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3da",
@@ -9709,8 +9371,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -9735,8 +9396,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/glyph-of-warding"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d1",
@@ -9763,8 +9423,7 @@
       "level": 4,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -9799,8 +9458,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/freedom-of-movement"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3e9",
@@ -9834,8 +9492,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -9860,8 +9517,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/healing-word"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3d2",
@@ -9889,8 +9545,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -9920,8 +9575,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/gaseous-form"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ce",
@@ -9956,8 +9610,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -9978,8 +9631,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/forcecage"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c9",
@@ -10024,8 +9676,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -10045,8 +9696,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/flaming-sphere"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3bd",
@@ -10078,8 +9728,7 @@
       "level": 1,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -10090,8 +9739,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/find-familiar"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3ea",
@@ -10144,8 +9792,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -10165,8 +9812,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/heat-metal"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb3c1",
@@ -10191,8 +9837,7 @@
       "level": 2,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -10217,8 +9862,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/find-traps"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb401",
@@ -10246,8 +9890,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -10267,8 +9910,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/levitate"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb40c",
@@ -10309,8 +9951,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -10321,8 +9962,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/magic-jar"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb434",
@@ -10360,8 +10000,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -10372,8 +10011,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/private-sanctum"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb449",
@@ -10420,8 +10058,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -10436,8 +10073,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/sacred-flame"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb41d",
@@ -10468,8 +10104,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -10490,8 +10125,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/mirage-arcane"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb40d",
@@ -10533,8 +10167,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -10554,8 +10187,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/magic-missile"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb40b",
@@ -10599,8 +10231,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -10630,8 +10261,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/magic-circle"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb45e",
@@ -10655,8 +10285,7 @@
       "level": 0,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -10667,8 +10296,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/spare-the-dying"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb429",
@@ -10697,8 +10325,7 @@
       "level": 6,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -10709,8 +10336,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/planar-ally"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb43e",
@@ -10736,8 +10362,7 @@
       "attack_type": "ranged",
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -10757,8 +10382,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/ray-of-enfeeblement"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb42e",
@@ -10796,8 +10420,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -10823,8 +10446,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/polymorph"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb461",
@@ -10856,8 +10478,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -10882,8 +10503,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/speak-with-plants"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb418",
@@ -10910,8 +10530,7 @@
       "level": 0,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -10946,8 +10565,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/mending"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb428",
@@ -10972,8 +10590,7 @@
       "level": 3,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -10988,8 +10605,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/phantom-steed"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb45c",
@@ -11021,8 +10637,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -11052,8 +10667,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/sleet-storm"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb42a",
@@ -11091,8 +10705,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -11123,8 +10736,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/plane-shift"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb451",
@@ -11152,8 +10764,7 @@
       "level": 7,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -11164,8 +10775,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/sequester"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb409",
@@ -11191,8 +10801,7 @@
       "level": 1,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -11212,8 +10821,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/mage-armor"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb403",
@@ -11247,8 +10855,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -11278,8 +10885,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/light"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb413",
@@ -11311,8 +10917,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -11327,8 +10932,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/mass-healing-word"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb417",
@@ -11354,8 +10958,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -11375,8 +10978,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/meld-into-stone"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb41a",
@@ -11423,8 +11025,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -11440,8 +11041,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/meteor-swarm"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb406",
@@ -11469,8 +11069,7 @@
       "level": 4,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -11510,8 +11109,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/locate-creature"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb445",
@@ -11541,8 +11139,7 @@
       "level": 7,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -11558,8 +11155,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/resurrection"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb41b",
@@ -11583,8 +11179,7 @@
       "level": 8,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -11600,8 +11195,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/mind-blank"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb42c",
@@ -11628,8 +11222,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -11659,8 +11252,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/plant-growth"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb40f",
@@ -11684,8 +11276,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -11705,8 +11296,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/magic-weapon"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb44c",
@@ -11754,8 +11344,7 @@
       },
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -11790,8 +11379,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/scrying"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb440",
@@ -11821,8 +11409,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -11843,8 +11430,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/regenerate"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb46f",
@@ -11871,8 +11457,7 @@
       "level": 5,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -11883,8 +11468,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/telepathic-bond"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb45f",
@@ -11908,8 +11492,7 @@
       "level": 1,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -11934,8 +11517,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/speak-with-animals"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb412",
@@ -11962,8 +11544,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -11974,8 +11555,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/mass-heal"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb419",
@@ -12002,8 +11582,7 @@
       "level": 0,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -12028,8 +11607,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/message"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb453",
@@ -12085,8 +11663,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -12116,8 +11693,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/shatter"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb459",
@@ -12146,8 +11722,7 @@
       "level": 7,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -12158,8 +11733,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/simulacrum"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb41f",
@@ -12187,8 +11761,7 @@
       "level": 2,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -12218,8 +11791,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/mirror-image"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb44d",
@@ -12247,8 +11819,7 @@
       "level": 4,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -12259,8 +11830,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/secret-chest"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb435",
@@ -12299,8 +11869,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -12311,8 +11880,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/prismatic-wall"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb423",
@@ -12346,8 +11914,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -12368,8 +11935,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/move-earth"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb441",
@@ -12413,8 +11979,7 @@
       "level": 5,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -12425,8 +11990,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/reincarnate"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb43b",
@@ -12451,8 +12015,7 @@
       "level": 2,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -12482,8 +12045,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/protection-from-poison"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb425",
@@ -12510,8 +12072,7 @@
       "level": 5,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -12526,8 +12087,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/passwall"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb454",
@@ -12551,8 +12111,7 @@
       "level": 1,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -12572,8 +12131,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/shield"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb438",
@@ -12602,8 +12160,7 @@
       "level": 7,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -12619,8 +12176,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/project-image"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb457",
@@ -12659,8 +12215,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -12680,8 +12235,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/shocking-grasp"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb455",
@@ -12707,8 +12261,7 @@
       "level": 1,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -12728,8 +12281,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/shield-of-faith"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb43c",
@@ -12753,8 +12305,7 @@
       "level": 1,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -12779,8 +12330,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/purify-food-and-drink"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb436",
@@ -12820,8 +12370,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -12836,8 +12385,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/produce-flame"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb468",
@@ -12863,8 +12411,7 @@
       "level": 4,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -12894,8 +12441,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/stoneskin"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb410",
@@ -12927,8 +12473,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -12944,8 +12489,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/magnificent-mansion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb452",
@@ -12976,8 +12520,7 @@
       "level": 9,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -12993,8 +12536,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/shapechange"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb432",
@@ -13025,8 +12567,7 @@
       "level": 0,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -13056,8 +12597,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/prestidigitation"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb416",
@@ -13092,8 +12632,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -13118,8 +12657,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/mass-cure-wounds"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb422",
@@ -13177,8 +12715,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -13193,8 +12730,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/moonbeam"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb427",
@@ -13236,8 +12772,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -13248,8 +12783,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/phantasmal-killer"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb415",
@@ -13275,8 +12809,7 @@
       "level": 8,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -13287,8 +12820,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/maze"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb424",
@@ -13314,8 +12846,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -13340,8 +12871,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/nondetection"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb42d",
@@ -13388,8 +12918,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -13410,8 +12939,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/poison-spray"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb44a",
@@ -13438,8 +12966,7 @@
       "level": 1,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -13459,8 +12986,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/sanctuary"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb43f",
@@ -13499,8 +13025,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -13520,8 +13045,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/ray-of-frost"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb44b",
@@ -13556,8 +13080,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -13582,8 +13105,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/scorching-ray"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb42f",
@@ -13606,8 +13128,7 @@
       "level": 9,
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -13633,8 +13154,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/power-word-kill"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb431",
@@ -13667,8 +13187,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -13683,8 +13202,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/prayer-of-healing"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb433",
@@ -13734,8 +13252,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -13751,8 +13268,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/prismatic-spray"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb420",
@@ -13775,8 +13291,7 @@
       "level": 2,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -13806,8 +13321,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/misty-step"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb45b",
@@ -13844,8 +13358,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -13870,8 +13383,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/sleep"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb44e",
@@ -13897,8 +13409,7 @@
       "level": 2,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -13923,8 +13434,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/see-invisibility"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb462",
@@ -13955,8 +13465,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -13981,8 +13490,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/spike-growth"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb408",
@@ -14008,8 +13516,7 @@
       "level": 1,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -14039,8 +13546,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/longstrider"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb450",
@@ -14067,8 +13573,7 @@
       "level": 3,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -14093,8 +13598,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/sending"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb40a",
@@ -14120,8 +13624,7 @@
       "level": 0,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -14151,8 +13654,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/mage-hand"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb430",
@@ -14176,8 +13678,7 @@
       "level": 8,
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -14203,8 +13704,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/power-word-stun"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb407",
@@ -14232,8 +13732,7 @@
       "level": 2,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -14273,8 +13772,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/locate-object"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb44f",
@@ -14301,8 +13799,7 @@
       "level": 5,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -14323,8 +13820,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/seeming"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb405",
@@ -14350,8 +13846,7 @@
       "level": 2,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -14376,8 +13871,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/locate-animals-or-plants"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb444",
@@ -14403,8 +13897,7 @@
       "level": 0,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -14424,8 +13917,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/resistance"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb411",
@@ -14453,8 +13945,7 @@
       "level": 3,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -14484,8 +13975,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/major-image"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb442",
@@ -14509,8 +13999,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -14540,8 +14029,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/remove-curse"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb437",
@@ -14574,8 +14062,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -14591,8 +14078,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/programmed-illusion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb42b",
@@ -14627,8 +14113,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -14654,8 +14139,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/planar-binding"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb460",
@@ -14682,8 +14166,7 @@
       "level": 3,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -14703,8 +14186,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/speak-with-dead"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb446",
@@ -14745,8 +14227,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -14767,8 +14248,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/reverse-gravity"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb404",
@@ -14823,8 +14303,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -14849,8 +14328,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/lightning-bolt"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb443",
@@ -14887,8 +14365,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -14899,8 +14376,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/resilient-sphere"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb448",
@@ -14929,8 +14405,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -14945,8 +14420,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/rope-trick"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb45d",
@@ -14988,8 +14462,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -15014,8 +14487,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/slow"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb421",
@@ -15051,8 +14523,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -15068,8 +14539,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/modify-memory"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb43a",
@@ -15096,8 +14566,7 @@
       "level": 1,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -15132,8 +14601,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/protection-from-evil-and-good"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb458",
@@ -15162,8 +14630,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -15193,8 +14660,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/silence"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb426",
@@ -15220,8 +14686,7 @@
       "level": 2,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -15246,8 +14711,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/pass-without-trace"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb43d",
@@ -15276,8 +14740,7 @@
       "level": 5,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -15302,8 +14765,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/raise-dead"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb469",
@@ -15355,8 +14817,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -15367,8 +14828,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/storm-of-vengeance"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb45a",
@@ -15400,8 +14860,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -15426,8 +14885,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/silent-image"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb40e",
@@ -15456,8 +14914,7 @@
       "level": 2,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -15477,8 +14934,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/magic-mouth"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb41c",
@@ -15506,8 +14962,7 @@
       "level": 0,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -15537,8 +14992,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/minor-illusion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb439",
@@ -15562,8 +15016,7 @@
       "level": 3,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -15603,8 +15056,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/protection-from-energy"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb41e",
@@ -15629,8 +15081,7 @@
       "level": 5,
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -15646,8 +15097,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/mislead"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb456",
@@ -15673,8 +15123,7 @@
       "level": 0,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -15689,8 +15138,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/shillelagh"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb447",
@@ -15716,8 +15164,7 @@
       "level": 3,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -15742,8 +15189,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/revivify"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb414",
@@ -15779,8 +15225,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -15806,8 +15251,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/mass-suggestion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb46b",
@@ -15858,8 +15302,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -15880,8 +15323,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/sunburst"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb481",
@@ -15908,8 +15350,7 @@
       "level": 5,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -15920,8 +15361,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/wall-of-force"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb483",
@@ -15974,8 +15414,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -15986,8 +15425,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/wall-of-thorns"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb47f",
@@ -16028,8 +15466,7 @@
       },
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -16049,8 +15486,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/vampiric-touch"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb465",
@@ -16091,8 +15527,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -16127,8 +15562,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/stinking-cloud"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb47d",
@@ -16156,8 +15590,7 @@
       "level": 1,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -16182,8 +15615,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/unseen-servant"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb474",
@@ -16215,8 +15647,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -16236,8 +15667,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/tiny-hut"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb485",
@@ -16265,8 +15695,7 @@
       "level": 2,
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -16281,8 +15710,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/warding-bond"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb479",
@@ -16310,8 +15738,7 @@
       "level": 9,
       "school": {
         "index": "necromancy",
-        "name": "Necromancy",
-        "url": "/api/magic-schools/necromancy"
+        "name": "Necromancy"
       },
       "classes": [
         {
@@ -16327,8 +15754,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/true-resurrection"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb466",
@@ -16354,8 +15780,7 @@
       "level": 2,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -16385,8 +15810,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/spider-climb"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb478",
@@ -16411,8 +15835,7 @@
       "level": 5,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -16432,8 +15855,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/tree-stride"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb467",
@@ -16459,8 +15881,7 @@
       "level": 4,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -16485,8 +15906,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/stone-shape"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb48c",
@@ -16518,8 +15938,7 @@
       "level": 9,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -16535,8 +15954,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/wish"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb464",
@@ -16580,8 +15998,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -16601,8 +16018,7 @@
           "name": "Life",
           "url": "/api/subclasses/life"
         }
-      ],
-      "url": "/api/spells/spiritual-weapon"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb489",
@@ -16636,8 +16052,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -16662,8 +16077,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/web"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb47c",
@@ -16686,8 +16100,7 @@
       "level": 0,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -16717,8 +16130,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/true-strike"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb487",
@@ -16745,8 +16157,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -16781,8 +16192,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/water-walk"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb463",
@@ -16809,8 +16219,7 @@
       "level": 3,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -16825,8 +16234,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/spirit-guardians"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb484",
@@ -16857,8 +16265,7 @@
       "level": 5,
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -16883,8 +16290,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/wall-of-stone"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb482",
@@ -16937,8 +16343,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -16949,8 +16354,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/wall-of-ice"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb475",
@@ -16974,8 +16378,7 @@
       "level": 9,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -16991,8 +16394,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/time-stop"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb488",
@@ -17028,8 +16430,7 @@
       },
       "school": {
         "index": "illusion",
-        "name": "Illusion",
-        "url": "/api/magic-schools/illusion"
+        "name": "Illusion"
       },
       "classes": [
         {
@@ -17040,8 +16441,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/weird"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb46a",
@@ -17092,8 +16492,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -17114,8 +16513,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/sunbeam"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb48e",
@@ -17144,8 +16542,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -17175,8 +16572,7 @@
           "name": "Devotion",
           "url": "/api/subclasses/devotion"
         }
-      ],
-      "url": "/api/spells/zone-of-truth"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb480",
@@ -17227,8 +16623,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -17253,8 +16648,7 @@
           "name": "Fiend",
           "url": "/api/subclasses/fiend"
         }
-      ],
-      "url": "/api/spells/wall-of-fire"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb46e",
@@ -17287,8 +16681,7 @@
       },
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -17304,8 +16697,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/telekinesis"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb472",
@@ -17335,8 +16727,7 @@
       "level": 0,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -17351,8 +16742,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/thaumaturgy"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb48a",
@@ -17379,8 +16769,7 @@
       "level": 6,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -17391,8 +16780,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/wind-walk"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb473",
@@ -17447,8 +16835,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -17478,8 +16865,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/thunderwave"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb46d",
@@ -17515,8 +16901,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -17546,8 +16931,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/suggestion"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb471",
@@ -17578,8 +16962,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -17600,8 +16983,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/teleportation-circle"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb486",
@@ -17627,8 +17009,7 @@
       "level": 3,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -17663,8 +17044,7 @@
           "name": "Land",
           "url": "/api/subclasses/land"
         }
-      ],
-      "url": "/api/spells/water-breathing"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb477",
@@ -17689,8 +17069,7 @@
       "level": 3,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -17725,8 +17104,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/tongues"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb47e",
@@ -17771,8 +17149,7 @@
       },
       "school": {
         "index": "enchantment",
-        "name": "Enchantment",
-        "url": "/api/magic-schools/enchantment"
+        "name": "Enchantment"
       },
       "classes": [
         {
@@ -17783,8 +17160,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/vicious-mockery"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb48b",
@@ -17834,8 +17210,7 @@
       },
       "school": {
         "index": "evocation",
-        "name": "Evocation",
-        "url": "/api/magic-schools/evocation"
+        "name": "Evocation"
       },
       "classes": [
         {
@@ -17855,8 +17230,7 @@
           "name": "Lore",
           "url": "/api/subclasses/lore"
         }
-      ],
-      "url": "/api/spells/wind-wall"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb48d",
@@ -17884,8 +17258,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -17896,8 +17269,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/word-of-recall"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb476",
@@ -17921,8 +17293,7 @@
       "level": 6,
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -17933,8 +17304,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/transport-via-plants"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb47b",
@@ -17968,8 +17338,7 @@
       "level": 9,
       "school": {
         "index": "transmutation",
-        "name": "Transmutation",
-        "url": "/api/magic-schools/transmutation"
+        "name": "Transmutation"
       },
       "classes": [
         {
@@ -17990,8 +17359,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/true-polymorph"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb47a",
@@ -18017,8 +17385,7 @@
       "level": 6,
       "school": {
         "index": "divination",
-        "name": "Divination",
-        "url": "/api/magic-schools/divination"
+        "name": "Divination"
       },
       "classes": [
         {
@@ -18049,8 +17416,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/true-seeing"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb470",
@@ -18098,8 +17464,7 @@
       },
       "school": {
         "index": "conjuration",
-        "name": "Conjuration",
-        "url": "/api/magic-schools/conjuration"
+        "name": "Conjuration"
       },
       "classes": [
         {
@@ -18120,8 +17485,7 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/teleport"
+      ]
     },
     {
       "_id": "62475d311c1ec99a1e0cb46c",
@@ -18163,8 +17527,7 @@
       },
       "school": {
         "index": "abjuration",
-        "name": "Abjuration",
-        "url": "/api/magic-schools/abjuration"
+        "name": "Abjuration"
       },
       "classes": [
         {
@@ -18185,7 +17548,6 @@
       ],
       "subclasses": [
         
-      ],
-      "url": "/api/spells/symbol"
+      ]
     }
   ]
