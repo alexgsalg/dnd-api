@@ -1,21 +1,25 @@
 const fs = require('fs');
 ////////// DATA //////////
 const spellsData = JSON.parse(fs.readFileSync(`${__dirname}/../data/spells-data.json`), {encoding:'utf8'}) || {};
+const classList = ["barbarian","bard","cleric","druid","fighter","monk","paladin","ranger","rogue","sorcerer","warlock", "wizard"];
+
 
 exports.checkIndex = (request, response, next, val) => {
   const { index } = request.params;
+  
   const spell = spellsData.find((el) => 
-      el.index === index || 
-      el.classes.some(item => item.index.includes(index))
-    );
-  if ( !spell ) {
+    el.index === index
+  );
+
+  if ( !classList.includes(index) && !spell  ) {
     return response.status(404)
       .json({
         status: 'fail',
         message: 'Invalid Spell index'
       })
   }
-  next()
+  
+  next();
 }
 
 exports.getAllSpells = (request, response) => {
