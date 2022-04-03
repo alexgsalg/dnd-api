@@ -34,17 +34,3 @@ exports.getClassByIndex = (request, response) => {
       results: classSelected
     })
 }
-
-exports.getSpellsByClass = (request, response) => {
-  const { index, name } = request.params;
-
-  const classSpells  = spellsData.filter(spells => spells.classes.some(el => el.index === index));
-  classSpells.map(el => delete el.classes);
-  return response.status(200)
-    .json({
-      status: 'success',
-      class: name, 
-      count: classSpells.length,
-      results: classSpells
-    })
-}
